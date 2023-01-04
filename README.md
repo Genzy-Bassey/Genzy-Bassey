@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Bassey Samuel</h1>
 
-<img align="right" alt="Genzy Bassey" width="300px" height="300px" src="https://drive.google.com/file/d/1FbCgOraKajRpGqpFoA4jjYfJho_OZvx3/view?usp=drivesdk">
+<img align="right" alt="Genzy Bassey" width="300px" height="200px" src="https://github.com/Genzy-Bassey/Bassey-portfolio/blob/db29717bf366a3943f10384559161f86e206e3d3/image/Genzy-Bassey.png">
 
 <h3 align="center">A passionate driven youth from Nigeria, interested majorly in technology, education, social impact and community development.</h3>
 
