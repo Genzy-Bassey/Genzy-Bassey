@@ -1,5 +1,9 @@
 ### Genzy Bassey 
 
+## My New GitHub Account
+
+For more of my projects and contributions, you can also check out my [New GitHub account](https://github.com/genzybas). It's a treasure trove of additional projects and coding adventures.
+
 
 
 <h1 align="center">Hi there 👋, I'm Bassey Samuel</h1>
